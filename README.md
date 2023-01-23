@@ -1,3 +1,3 @@
 # CSS-Website
 
-https://srjam89.github.io/CSS-Website/
+https://ferchoeth.github.io/CSS-Website/
